@@ -1,0 +1,26 @@
+body {
+    font-family: Georgia, serif;
+}
+
+body {
+    background-color: #fef9f3;
+    color: #5c4033;
+}
+
+a {
+    color: #d47390;
+}
+
+body {
+    margin: 20px;
+    padding: 40px;
+    text-align: center;
+}
+
+img {
+    max-width: 400px;
+}
+
+nav {
+    margin-bottom: 25px;
+}
